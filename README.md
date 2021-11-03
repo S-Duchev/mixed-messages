@@ -2,8 +2,7 @@
 
 Codecademy Project. Generates random message every time the user runs it.
 
-# Other
-Example: 
+# Example
 
 Travel by 'car/boat/train/plane/spaceship/tractor'
 
